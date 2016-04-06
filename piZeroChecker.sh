@@ -7,7 +7,7 @@
 
 # Alarm Function
 alarm() {
-	echo "Raspberry Pi Zero available at $1! Check http://whereismypizero.com" | mail -s "Raspberry Pi Zero available" dominique@dofl.nl
+	echo "Raspberry Pi Zero available at $1! Check http://whereismypizero.com" | mail -s "Raspberry Pi Zero available" your@e-mail.com
 }
 
 # US: Adafruit
